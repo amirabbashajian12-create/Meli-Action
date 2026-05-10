@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       url:
-        description: 'https://youtu.be/kSAPIHfcl7Y?si=S1QjTznm1JgCi6l0'
+        description: 'لینک مورد نظر'
         required: true
 
 jobs:
